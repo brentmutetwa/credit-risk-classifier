@@ -57,7 +57,7 @@ Exported model using joblib. Created interactive Gradio interface. Implemented i
 
 GitHub: github.com/brentmutetwa
 
-LinkedIn:zw.linkedin.com/in/brenton-mutetwa-95470b253  
+LinkedIn: linkedin.com/in/brenton-mutetwa-95470b253  
 
 Email: mutetwabrentont@gmail.com
 
